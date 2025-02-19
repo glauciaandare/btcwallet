@@ -12,4 +12,7 @@
     cd .\src\
     node .\createWallet.js
     
+# Instalar electrum
+    https://electrum.org/#download
+
     
